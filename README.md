@@ -1,4 +1,4 @@
-# code-pepperK-codingTEST_js
+# codingTEST_js
 for algorithm
 
 **코딩테스트**

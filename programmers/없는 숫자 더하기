@@ -14,4 +14,3 @@ function solution(numbers) {
     }
     return answer;
 }
-//풀이해석 https://coderpp.tistory.com/7
